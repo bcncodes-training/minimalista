@@ -1,0 +1,14 @@
+    {
+      "name": "@rglepe/minimalista",
+      "version": "1.0.0",
+      "description": "Removes all spaces from a string",
+      "license": "MIT",
+      "repository": "bcncodes-training/minimalista",
+      "main": "index.js",
+      "keywords": [
+        "minimalista",
+        "npm",
+        "package",
+        "bcncodes-training"
+      ]
+    }
