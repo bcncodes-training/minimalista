@@ -22,6 +22,6 @@ minimalista("Me sobra espacio!");
 
 minimalista(1337);
 //=> Uncaught TypeError: Minimalista necesita un string!
-//    at tiny (<anonymous>:2:41)
+//    at minimalista (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
