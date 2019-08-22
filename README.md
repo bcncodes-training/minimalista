@@ -1,6 +1,6 @@
 # @rglepe/minimalista
 
-![npm (scoped)](https://img.shields.io/npm/v/@rglepe/minimalista) ![](https://img.shields.io/bundlephobia/min/@rglepe/minimalista.svg)
+![npm (scoped)](https://img.shields.io/npm/v/@rglepe/minimalista) ![npm bundled minify](https://img.shields.io/bundlephobia/min/@rglepe/minimalista.svg)
 
 (https://www.npmjs.com/package/@rglepe/minimalista)
 
